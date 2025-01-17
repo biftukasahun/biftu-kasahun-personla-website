@@ -1,2 +1,2 @@
-# biftu-kasahun-personla-website
+# biftu-kasahun-personal-website
 personal website
